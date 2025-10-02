@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import LinkButton from "../../ui/LinkButton";
+import LinkButton from "../../Ui/LinkButton";
 import Button from "../../Ui/Button";
 import CartItem from "./CartItem";
 import { useDispatch, useSelector } from "react-redux";
